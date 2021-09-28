@@ -26,6 +26,31 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o Mobile
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/leandrosuy/appBiscoito.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Mobile
+
+# Instale as dependências
+$ yarn
+# ou
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+# ou
+$ npx react-native run-android
+
+```
+
 <a href="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png">
 <img src="https://raw.githubusercontent.com/ARTHURPC03/Proffy-FullStack/master/github/linkedin.png" alt="linkedin" height="50"></a>
 <br />
