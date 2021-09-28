@@ -4,7 +4,7 @@
 
 <div align="center" >
   <img src="./github/inicio.png" alt="demo-mobile" height="425">
-   <img src="https://raw.githubusercontent.com/leandrosuy/appBiscoito/master/assets/images/funcionamento.gif" alt="demo-mobile" height="425">
+   <img src="./github/funcionamento.gif" alt="demo-mobile" height="425">
 </div>
 
 ---
