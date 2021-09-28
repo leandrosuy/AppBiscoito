@@ -7,7 +7,7 @@ export default class App extends Component{
     super(props);
     this.state = {
       textoFrase: '',
-      img: require('./assets/biscoito.pn'),
+      img: require('./assets/biscoito.png'),
     };
 
     this.quebraBiscoito = this.quebraBiscoito.bind(this);
