@@ -4,7 +4,7 @@
 
 <div align="center" >
   <img src="./github/inicio.png" alt="demo-mobile" height="425">
-   <img src="./github/funcionamento.gif" alt="demo-mobile" height="421">
+   <img src="./github/funcionamento.gif" alt="demo-mobile" height="425">
 </div>
 
 ---
