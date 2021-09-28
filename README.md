@@ -3,7 +3,7 @@
 ## Demo 📸
 
 <div align="center" >
-  <img src="https://raw.githubusercontent.com/leandrosuy/appBiscoito/master/assets/images/Inicio.png" alt="demo-mobile" height="425">
+  <img src="./github/inicio.png" alt="demo-mobile" height="425">
    <img src="https://raw.githubusercontent.com/leandrosuy/appBiscoito/master/assets/images/funcionamento.gif" alt="demo-mobile" height="425">
 </div>
 
